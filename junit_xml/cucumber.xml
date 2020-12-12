@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="21.154061">
+    <testcase classname="Test the Lets Kode It web Page" name="Test" time="21.154061">
+        <system-out><![CDATA[Given Open Web Let Kode Page................................................passed
+Then Click on the BMW checkbox..............................................passed
+Then Click on the Benz checkbox.............................................passed
+Then Click on the Honda checkbox............................................passed
+And Close the Webpage.......................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

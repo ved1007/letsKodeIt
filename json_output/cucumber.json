@@ -1,0 +1,83 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Test",
+        "description": "",
+        "id": "test-the-lets-kode-it-web-page;test",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 19493399100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Open Web Let Kode Page",
+            "match": {
+              "location": "LetKodeItSteps.open_Web_Let_Kode_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 134700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Click on the BMW checkbox",
+            "match": {
+              "location": "LetKodeItSteps.click_on_the_BMW_checkbox()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 86000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Click on the Benz checkbox",
+            "match": {
+              "location": "LetKodeItSteps.click_on_the_Benz_checkbox()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 81800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Click on the Honda checkbox",
+            "match": {
+              "location": "LetKodeItSteps.click_on_the_Honda_checkbox()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1650769000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Close the Webpage",
+            "match": {
+              "location": "LetKodeItSteps.close_the_Webpage()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "Test the Lets Kode It web Page",
+    "description": "",
+    "id": "test-the-lets-kode-it-web-page",
+    "keyword": "Feature",
+    "uri": "file:/C:/Users/PC%20User1/Desktop/SeleniumFiles/GitMavenNexusTest2/src/main/java/Features/LetsKodeIt.feature",
+    "tags": []
+  }
+]
