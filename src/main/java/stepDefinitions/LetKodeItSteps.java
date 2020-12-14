@@ -49,18 +49,18 @@ public class LetKodeItSteps {
 
 	@Then("Click on the BMW checkbox")
 	public void click_on_the_BMW_checkbox() {
-		driver.findElement(By.id("")).click();
+		driver.findElement(By.id("bmwradio")).click();
 
 	}
 
 	@Then("Click on the Benz checkbox")
 	public void click_on_the_Benz_checkbox() {
-		driver.findElement(By.id("")).click();
+		driver.findElement(By.id("benzradio")).click();
 	}
 
 	@Then("Click on the Honda checkbox")
 	public void click_on_the_Honda_checkbox() {
-		driver.findElement(By.id("")).click();
+		driver.findElement(By.id("hondaradio")).click();
 
 	}
 
