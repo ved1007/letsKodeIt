@@ -1,0 +1,16 @@
+#----- Default SonarQube server
+sonar.host.url=http://localhost:9000
+
+#-----Global database settings
+sonar.login=admin
+sonar.password=Swamini159
+
+sonar.projectKey=GitMavenNexusTest2
+sonar.projectName=GitMavenNexusTest2
+sonar.projectVersion=1.0
+
+sonar.java.binaries=bin
+
+sonar.sources=C:\Users\PC User1\Desktop\SeleniumFiles\GitMavenNexusTest2\src\main
+
+sonar.sourceEncoding=UTF-8
