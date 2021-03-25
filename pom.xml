@@ -70,7 +70,7 @@
 		
 	</dependencies>
 
-<!-- 	<distributionManagement>
+ 	<distributionManagement>
 		<repository>
 			<id>nexus</id>
 			<name>releaserepo</name>
@@ -84,7 +84,7 @@
 		</snapshotRepository>
 	</distributionManagement>
 
- -->
+
 	<build>
 		<plugins>
 			<plugin>
