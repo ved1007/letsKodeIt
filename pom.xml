@@ -16,8 +16,8 @@
      		<maven.compiler.target>1.8</maven.compiler.target>
 		<spring.version>0.0.1.RELEASE</spring.version>
 		<axis2.version>1.7.9</axis2.version>
-		<sonar.host.url>http://localhost:9000/</sonar.host.url>
 		
+		<sonar.host.url>http://localhost:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>Swamini159</sonar.password>
 		
