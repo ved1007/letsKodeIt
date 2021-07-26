@@ -80,13 +80,13 @@
 		<repository>
 			<id>nexus</id>
 			<name>releaserepo</name>
-			<url>http://localhost:8081/repository/MavenNexusTest-Release/</url>
+			<url>http://localhost:8081/repository/GitMvnSonarNexus-Release/</url>
 		</repository>
 
 		<snapshotRepository>
 			<id>nexus</id>
 			<name>snapshotrepo</name>
-			<url>http://localhost:8081/repository/MavenNexusTest-Snapshot/</url>
+			<url>http://localhost:8081/repository/GitMvnSonarNexus-Snap/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
