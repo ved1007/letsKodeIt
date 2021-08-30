@@ -40,7 +40,7 @@ public class LetKodeItSteps {
 //		System.setProperty("webdriver.chrome.driver","/Users/vedant.jagani/Documents/Automation/SampleAutomation/Drivers/chromedriver");
 
 		driver = new ChromeDriver();
-		driver.get("https://learn.letskodeit.com/p/practice");
+		driver.get("https://courses.letskodeit.com/practice");
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
